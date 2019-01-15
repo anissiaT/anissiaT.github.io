@@ -1,0 +1,42 @@
+
+
+body{
+	background-color: #B191FF;
+	transition: all 1s ease;
+}
+
+#conteneur {
+	background-color: #B191FF;
+	width: 100%;
+	transition: all 1s ease;
+}
+
+
+#logo{
+	width: 300px;
+
+	transition: all 1s ease;
+}
+
+
+nav{ 
+	background-color: #5E2BFF;
+
+	border:0px solid black;
+	transition: all 1s ease;
+}
+
+ ul{
+	transition: all 1s ease;
+	display: block;
+}
+
+li {
+	width: 40%;
+	height: 10px;
+	margin: 10px auto;
+		background-color: #B191FF;
+
+
+}
+
